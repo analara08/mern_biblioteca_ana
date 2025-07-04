@@ -39,3 +39,5 @@ app.listen(port, () => {
 
 
 //e7hYTex9HYCOi5f1
+
+//MONGO_URI=mongodb+srv://analara08:e7hYTex9HYCOi5f1@cluster0.17yld4o.mongodb.net/mern?retryWrites=true&w=majority&appName=Cluster0
